@@ -6,3 +6,5 @@ To set up a ReactJS environment, follow these steps:
 
 
 npm install  tailwindcss
+npx tailwindcss init
+
