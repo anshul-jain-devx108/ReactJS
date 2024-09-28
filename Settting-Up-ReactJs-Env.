@@ -3,3 +3,6 @@ To set up a ReactJS environment, follow these steps:
 1. install nodejs ( prefer Long term Support)
 
 2. Create a New React Project : npx create-react-app my-react-app
+
+
+npm install  tailwindcss
